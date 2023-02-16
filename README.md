@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Mehm3tAk1f
-- 👀 I’m interested in coding, playing chess, watching movies and series.
+- 👀 I’m interested in coding, playing chess.
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
